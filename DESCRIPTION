@@ -1,0 +1,16 @@
+Package: meow
+Title: meow - Serves TNC Marine Ecoregions Of the World (MEOW) 
+Description: Serves TNC Marine Ecoregions Of the World (MEOW).
+Version: 0.1
+Depends:
+    R (>= 4.1)
+Imports:
+  utils,
+  sf
+Encoding: UTF-8
+Maintainer: Ben Tupper <btupper@bigelow.org>
+Author: Ben Tupper <btupper@bigelow.org>
+URL: https://github.com/btupper/meow
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 7.1.2
